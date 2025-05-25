@@ -94,9 +94,9 @@ const courseData: Course = {
     },
     {
       id: "answer-favorite-product-question",
-      title: "Get your questions answered by AI",
+      title: "Apologize to your partER",
       duration: "1:31",
-      videoUrl: "https://app.toughtongueai.com/embed/677e5dbd261d3f3e3803b968?bg=black&skipPrecheck=true",
+      videoUrl: "https://app.toughtongueai.com/embed/6832d8c1a7eb99be57dc8d0d?bg=black&skipPrecheck=true",
       mediaType: "toughtongue"
     },
     {
